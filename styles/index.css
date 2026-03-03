@@ -10,3 +10,24 @@ body {
     width: 100%;
     max-width: 512px;
 }
+
+/*utility*/
+.text-white {
+    color: white;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.sigmar-regular {
+  font-family: "Sigmar", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sigmar-regular {
+  font-family: "Sigmar", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
