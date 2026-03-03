@@ -76,3 +76,17 @@ header{
     justify-content: center;
     font-family: "DM Sans", sans-serif;
 }
+
+.inserzione{
+    border-radius: 35px;
+    margin: 50px 0;
+    padding:60px 35px 0;
+    position: relative;
+}
+
+.logo{
+    width: 100px;
+    position: absolute;
+    top: -50px;
+    left: 15%;
+}
