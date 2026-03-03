@@ -20,11 +20,12 @@ body {
     text-align: center;
 }
 
-.sigmar-regular {
-  font-family: "Sigmar", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
+.dm-sans {
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}    
 
 .sigmar-regular {
   font-family: "Sigmar", sans-serif;
