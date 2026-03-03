@@ -32,3 +32,11 @@ body {
   font-weight: 400;
   font-style: normal;
 }
+
+/*header*/
+.banner {
+    width: 100%;
+    max-width: 512px;
+    margin-bottom: 20px;
+}
+
