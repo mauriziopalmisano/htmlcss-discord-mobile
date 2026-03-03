@@ -9,7 +9,9 @@
 body {
     width: 100%;
     max-width: 512px;
+    margin: 0 auto;
 }
+
 
 /*utility*/
 .text-white {
@@ -23,32 +25,54 @@ body {
 .ins-bg-color {
     background-color: #5865F2;
 }
-.dm-sans {
-    font-family: "DM Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 800;
-    font-style: normal;
-}    
 
-.sigmar-regular{
-  font-family: "Sigmar", sans-serif;
-  font-weight: 400;
-  font-style: normal;
+.ins-bg-color-2{
+    background-color: white;
 }
 
 /*header*/
+header{
+    background-color: #191d7b
+}
+
 .banner {
     width: 100%;
     max-width: 512px;
-    margin-bottom: 20px;
 }
 
 /*main*/
 .ins-contenitore {
    padding: 40px 20px;
-   background-color: #191d7b;
+   background-color: #191d7b
 }
 
 .intro{
-    width: 70%;
+    padding: 0 70px;
+}
+
+.ins-titolo{
+  font-family: "Sigmar", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 120%;
+  text-transform: uppercase;
+  padding-bottom: 20px;
+}
+
+.ins-testo {
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    padding-bottom: 30px;
+}
+
+.ins-bottone {
+    border-radius: 10px;
+    margin-bottom: 10px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "DM Sans", sans-serif;
 }
