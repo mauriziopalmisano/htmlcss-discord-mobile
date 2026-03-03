@@ -20,14 +20,17 @@ body {
     text-align: center;
 }
 
+.ins-bg-color {
+    background-color: #5865F2;
+}
 .dm-sans {
     font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 400;
+    font-weight: 800;
     font-style: normal;
 }    
 
-.sigmar-regular {
+.sigmar-regular{
   font-family: "Sigmar", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -40,3 +43,12 @@ body {
     margin-bottom: 20px;
 }
 
+/*main*/
+.ins-contenitore {
+   padding: 40px 20px;
+   background-color: #191d7b;
+}
+
+.intro{
+    width: 70%;
+}
